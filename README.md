@@ -1,2 +1,2 @@
 # GBFlasher-Mini
-A clone of a clone
+A clone of jrodrigo's flasher but with usb c
