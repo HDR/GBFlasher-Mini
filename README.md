@@ -37,4 +37,4 @@ A clone of jrodrigo's flasher but with usb c
 | R5 | NTR06B1002DTRF | 10K |
 | R6 | ERJ-PB3D5101V | 5.1K (Only required for usb c to usb c connections) |
 | R7 | ERJ-PB3D5101V | 5.1K (Only required for usb c to usb c connections) |
-| XTAL1 | ECS-60-32-5PXDN-TR | 6MHz 0603 Crystal |
+| XTAL1 | ECS-60-32-5PXDN-TR | 6MHz Crystal |
