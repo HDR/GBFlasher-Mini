@@ -1,7 +1,7 @@
 # GBFlasher-Mini
 A clone of jrodrigo's flasher but with usb c
 
-[Purchase on OSHPARK](https://oshpark.com/shared_projects/QA55haLS)
+[Purchase on OSHPARK](https://oshpark.com/shared_projects/dYO2oA9u)
 
 
 ## Images
